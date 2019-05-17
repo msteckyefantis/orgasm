@@ -1,0 +1,19 @@
+{
+  "name": "orgasm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msteckyefantis/orgasm.git"
+  },
+  "author": "Michael Stecky-Efantis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msteckyefantis/orgasm/issues"
+  },
+  "homepage": "https://github.com/msteckyefantis/orgasm#readme"
+}
