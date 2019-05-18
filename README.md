@@ -3,22 +3,22 @@
 
 ### ⚡️Official API Documentation ⛈
 
-## Installation
+#### Installation
 
 ```
 npm i orgasm
 ```
 
-### Usage
+#### Usage
 ```
 'use strict';
 
 const {
-    validation: {
-        getIsValidAddress,
-    },
     formatting: {
         getAmountNumber
+    },
+    validation: {
+        getIsValidAddress,
     }
 } = require( 'orgasm' );
 
