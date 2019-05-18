@@ -1,4 +1,8 @@
 'use strict';
 
 
-console.warn( 'YES BABY, YES!!!!😍😛😋' );
+module.exports = Object.freeze({
+
+    formatting: require( './formatting' ),
+    validation: require( './validation' ),
+});
